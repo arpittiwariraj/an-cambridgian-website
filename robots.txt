@@ -1,0 +1,12 @@
+# Robots.txt for A.N. Cambridgian Academy
+# https://ancambridgian.co.in
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ancambridgian.co.in/sitemap.xml
+
+# Disallow admin or private directories (if any)
+Disallow: /assets/
+
